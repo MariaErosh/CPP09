@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"random": "c",
+		"sstream": "c",
+		"mlx.h": "c",
+		"*.tcc": "cpp",
+		"memory_resource": "cpp",
+		"type_traits": "cpp"
+	}
+}
